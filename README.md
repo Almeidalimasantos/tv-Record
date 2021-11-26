@@ -1,1 +1,5 @@
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8?sd=10&rebase=on
+#EXTM3U
+
+#EXTINF:-tvg.logo=""
+group-title="tv aberta", Band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8
